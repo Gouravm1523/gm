@@ -105,7 +105,7 @@ const Contact = () => {
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-2">INVEST NOW</h2>
           <p className="text-muted-foreground font-mono text-sm">
-            Initiate collaboration opportunity
+            Initiate collaboration opportunity.
           </p>
         </motion.div>
 
