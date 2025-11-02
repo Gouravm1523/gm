@@ -86,7 +86,7 @@ All colors MUST be HSL.
   
   .ticker-content {
     display: flex;
-    animation: ticker-scroll 60s linear infinite;
+    animation: ticker-scroll 110s linear infinite;
     white-space: nowrap;
     will-change: transform;
   }

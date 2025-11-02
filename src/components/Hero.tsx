@@ -13,7 +13,7 @@ const Hero = () => {
   };
 
   return (
-    <section id="hero" className="min-h-screen pt-24 pb-16 px-4 grid-bg">
+   <section id="hero" className="min-h-screen pt-[1.70rem] pb-16 px-4 grid-bg">
       <div className="container mx-auto">
         <div className="grid lg:grid-cols-[1.2fr,1fr] gap-8 items-start">
           {/* Left Panel */}
@@ -25,7 +25,7 @@ const Hero = () => {
           >
             <div className="flex items-center gap-2 mb-6">
               <Activity className="text-success animate-pulse" size={16} />
-              <span className="text-xs font-mono text-success">MARKET STATUS: OPEN</span>
+              <span className="text-xs font-mono text-success">MARKET STATUS: OPEN & READY TO INVEST</span>
             </div>
 
             <div className="flex flex-col md:flex-row items-start md:items-center gap-6 mb-8">
